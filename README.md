@@ -4,8 +4,10 @@
 
 Con este Convertidor DC-DC XL4015 Step-Down podrás reducir una caída de potencial de Corriente Directa con alta eficiencia, baja ondulación y excelente línea de regulación de carga. En una frecuencia fija de 180 KHz PWM el Buck (reductor) Requiere una mínima cantidad de componentes externos, el regulador es simple de usar e incluye un oscilador de frecuencia fija.
 
-El circuito de control PWM puede ajustar el relación de trabajo linealmente de 0 a 100%. Un exceso la función de protección actual está construida en el interior. Cuando ocurre una función de protección corta, la frecuencia de operación se reducirá desde 18 0 kHz a 48 kHz. Una compensación interna bloque está integrado para minimizar conteo de componentes.
+El circuito de control PWM puede ajustar el relación de trabajo linealmente de 0 a 100%. Un exceso la función de protección actual está construida en el interior. Cuando ocurre una función de protección corta, la frecuencia de operación se reducirá desde 18 0 kHz a 48 kHz. Una compensación interna bloque está integrado para minimizar componentes.
 Este dispositivo tiene una gran cantidad de aplicaciones, principalmente para monitores LCD y TV, ya que deben tener una alimentación adecuada, así como en dispositivos de radiofrecuencia que también son más sensibles a las variaciones de voltaje. Fuentes de alimentación y equipos de telecomunicaciones.
+
+En este caso quise ir un poco mas allá por la necesidad de tener in driver y poDer variarle la velocidad de un motor de 24v 120W a través de Arduino y un encoder de tipo rotativo. aunque de encoder no vamos a hablar ahora. pero si deseas te remito a esta pagina que tiene un exelente tutorial.https://www.luisllamas.es/arduino-encoder-rotativo/
  
 
  ## Convertidor DC-DC XL4015 Step-Down:
