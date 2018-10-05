@@ -3,7 +3,7 @@
 ## DESCRIPCIÓN:
  
 
- #Convertidor DC-DC XL4015 Step-Down Características::
+ ## Convertidor DC-DC XL4015 Step-Down Características::
 
 - Destacados del módulo: alta potencia 5A, alta eficiencia y bajo rizado con el indicador de energía
 - Voltaje de entrada: 8-36V (entrada por favor trate de no exceder de 38 V)
