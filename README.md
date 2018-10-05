@@ -41,7 +41,7 @@ Dicha fuente es la mentada XL4015 de 5 amperios.
 const int channelPinA = 2;
 const int channelPinB = 10;
 
-int ledPin = 5;
+int Pin_PWM = 5;
  
 const int timeThreshold = 5;
 long timeCounter = 0;
@@ -65,7 +65,7 @@ void loop()
    {
       counter = ISRCounter;
       Serial.println(counter);
-      analogWrite(ledPin, counter);
+      analogWrite(Pin_PWM, counter);
    }
    delay(100);
 }
