@@ -3,7 +3,7 @@
 ## DESCRIPCIÓN:
  
 
-Especificaciones:
+ #Convertidor DC-DC XL4015 Step-Down Características::
 
 - Destacados del módulo: alta potencia 5A, alta eficiencia y bajo rizado con el indicador de energía
 - Voltaje de entrada: 8-36V (entrada por favor trate de no exceder de 38 V)
@@ -25,57 +25,6 @@ Especificaciones:
 
 Las aplicaciones de módulos buck CC / CC de la tensión de entrada es mayor que la tensión de salida del buck campo, tales como la batería, transformador de potencia, fuente de alimentación regulada ajustable de bricolaje, 24V Vehículo fuente de alimentación portátil, equipos industriales buck.12V a 3.3V , 12V a 5V, 24V a 5V, 24V a 12V, 36V a 24V etc.
 
-Voltaje de entrada
-
--4.0V~38V
-
--Voltaje de salida
-
--1.25V~36V
-
--Rango de medición de voltí­metro
-
--0.0V~40V
-
--Corriente de salida
-
--0A~5A
-
--Potencia de salida
-
--75W
-
--Frecuencia de operación
-
--180KHz
-
--Regulación de carga
-
--<=0.8% (entrada 24V, salida 12V, carga 1A~4.5A)
-
--Regulación de voltaje
-
--<=0.8% (salida 12V/4A, entrada 18v~32V)
-
--Eficiencia
-
--96%
-
--Protección ante corto circuito
-
--Si (hasta 8A)
-
--Protección de sobre calentamiento
-
--Si (Automático, apaga la salida)
-
--Protección frente a Inversión de polaridad
-
--Ninguna
-
--Temperatura de funcionamiento
-
-- -40°C~85°C
 
 
 # ESP8266 – SPIFFS + JSON
