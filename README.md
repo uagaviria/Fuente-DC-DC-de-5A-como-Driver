@@ -5,11 +5,11 @@
 
 Especificaciones:
 
-*Destacados del módulo: alta potencia 5A, alta eficiencia y bajo rizado con el indicador de energía
-*Voltaje de entrada: 8-36V (entrada por favor trate de no exceder de 38 V)
-*Voltaje de salida: 1.25-32V continuamente ajustable
-*Corriente de salida: 0-5A
-*Potencia de salida: 75W
+- Destacados del módulo: alta potencia 5A, alta eficiencia y bajo rizado con el indicador de energía
+- Voltaje de entrada: 8-36V (entrada por favor trate de no exceder de 38 V)
+- Voltaje de salida: 1.25-32V continuamente ajustable
+- Corriente de salida: 0-5A
+- Potencia de salida: 75W
 Temperatura de funcionamiento: -40 a +85 grados
 Frecuencia de trabajo: 180KHz
 eficiencia de conversión: hasta el 96%
