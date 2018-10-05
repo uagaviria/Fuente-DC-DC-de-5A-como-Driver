@@ -29,7 +29,7 @@ Este dispositivo tiene una gran cantidad de aplicaciones, principalmente para mo
 En este caso quise ir un poco mas allá por la necesidad de tener un driver y poder variarle la velocidad de un motor de 24v 120W a través de Arduino y un encoder de tipo rotativo. Aunque de encoder no vamos a hablar ahora. pero si deseas te remito a esta pagina que tiene un exelente tutorial. https://www.luisllamas.es/arduino-encoder-rotativo/
 Dicha fuente es la mentada XL4015 de 5 amperios. 
 
-En esta fuente note que inyectandole pwm con dicha modificación. alimentando la entrada con 24V. la salida de pwm daba el rango de util entre 90 y 255  siendo 255 para el mortor apagado y 90 el voltaje maximo. esto en arduino se puede mapear.
+En esta fuente note que inyectandole pwm con dicha modificación. alimentando la entrada con 24V. la salida de pwm daba el rango entre 90 y 255  siendo 255 para el mortor apagado y 90 el voltaje maximo. esto en arduino se puede mapear.
 
  ## Convertidor DC-DC XL4015 Step-Down:
 <img src="https://raw.githubusercontent.com/uagaviria/Fuente-DC-DC-de-5A-como-Driver/master/img/fuente-dc-dc-regulador-5a.jpg" />
