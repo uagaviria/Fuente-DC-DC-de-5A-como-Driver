@@ -10,18 +10,73 @@ Especificaciones:
 - Voltaje de salida: 1.25-32V continuamente ajustable
 - Corriente de salida: 0-5A
 - Potencia de salida: 75W
-Temperatura de funcionamiento: -40 a +85 grados
-Frecuencia de trabajo: 180KHz
-eficiencia de conversión: hasta el 96%
-Regulación de la carga: S (I) ≤0.8% (entrada de 24V, 12V de salida, la carga varía de 4,5 a 1 ~ medido)
-Regulación de voltaje: S (u) ≤0.8% (salida de 12V, cuando 4A, cuando 18 ~ 32V cambio de tensión de la medida)
-Indicador de encendido: Sí
-Protección contra cortocircuitos: Sí (límite actual 8A)
-protección de sobrecalentamiento: (apagar automáticamente la salida después de sobretemperatura)
-Entrada de protección de polaridad inversa: No
-Instalación: dos tornillos de 3 mm
-Conexión: Soldadura, V-IN es la entrada, V-OUT es la salida
-Dimensiones del módulo: 54 x 23 x 15 mm (L x W x H)
+- Temperatura de funcionamiento: -40 a +85 grados
+- Frecuencia de trabajo: 180KHz
+- Eficiencia de conversión: hasta el 96%
+- Regulación de la carga: S (I) ≤0.8% (entrada de 24V, 12V de salida, la carga varía de 4,5 a 1 ~ medido)
+- Regulación de voltaje: S (u) ≤0.8% (salida de 12V, cuando 4A, cuando 18 ~ 32V cambio de tensión de la medida)
+- Indicador de encendido: Sí
+- Protección contra cortocircuitos: Sí (límite actual 8A)
+- protección de sobrecalentamiento: (apagar automáticamente la salida después de sobretemperatura)
+- Entrada de protección de polaridad inversa: No
+- Instalación: dos tornillos de 3 mm
+- Conexión: Soldadura, V-IN es la entrada, V-OUT es la salida
+- Dimensiones del módulo: 54 x 23 x 15 mm (L x W x H)
+
+Las aplicaciones de módulos buck CC / CC de la tensión de entrada es mayor que la tensión de salida del buck campo, tales como la batería, transformador de potencia, fuente de alimentación regulada ajustable de bricolaje, 24V Vehículo fuente de alimentación portátil, equipos industriales buck.12V a 3.3V , 12V a 5V, 24V a 5V, 24V a 12V, 36V a 24V etc.
+
+Voltaje de entrada
+
+-4.0V~38V
+
+-Voltaje de salida
+
+-1.25V~36V
+
+-Rango de medición de voltí­metro
+
+-0.0V~40V
+
+-Corriente de salida
+
+-0A~5A
+
+-Potencia de salida
+
+-75W
+
+-Frecuencia de operación
+
+-180KHz
+
+-Regulación de carga
+
+-<=0.8% (entrada 24V, salida 12V, carga 1A~4.5A)
+
+-Regulación de voltaje
+
+-<=0.8% (salida 12V/4A, entrada 18v~32V)
+
+-Eficiencia
+
+-96%
+
+-Protección ante corto circuito
+
+-Si (hasta 8A)
+
+-Protección de sobre calentamiento
+
+-Si (Automático, apaga la salida)
+
+-Protección frente a Inversión de polaridad
+
+-Ninguna
+
+-Temperatura de funcionamiento
+
+- -40°C~85°C
+
 
 # ESP8266 – SPIFFS + JSON
 Todos los ESP8266 tienen un “disco rígido” interno, llamado SPIFFS (SPI Flash File System), en el cual podemos leer y grabar archivos desde el código de Arduino o de forma manual. Justamente en este tutorial de IOT (internet de las cosas) vamos a ver cómo acceder al SPIFFS parar leer y guardar datos en un archivo Json (JavaScript Object Notation).
